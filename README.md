@@ -1,6 +1,6 @@
 # Server Penetration Testing & Vulnerability Assessment: From Reconnaissance to Exploitation
 
-This project details a comprehensive penetration test and vulnerability assessment performed on a simulated target server (Metasploitable3). The core objective was to move systematically through the offensive security lifecycle: reconnaissance, vulnerability scanning, exploitation, and post-exploitation. The results demonstrate end-to-end expertise in securing server environments by identifying, exploiting, and providing remediation strategies for critical weaknesses.
+    This project details a comprehensive penetration test and vulnerability assessment performed on a simulated target server (Metasploitable3). The core objective was to move systematically through the offensive security lifecycle: reconnaissance, vulnerability scanning, exploitation, and post-exploitation. The results demonstrate end-to-end expertise in securing server environments by identifying, exploiting, and providing remediation strategies for critical weaknesses.
 
 ### Skills Learned
 
