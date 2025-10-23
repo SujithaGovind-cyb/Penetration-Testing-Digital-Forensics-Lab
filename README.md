@@ -1,6 +1,6 @@
-# PROJECTNAME
+# Server Penetration Testing & Vulnerability Assessment: From Reconnaissance to Exploitation
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This project details a comprehensive penetration test and vulnerability assessment performed on a simulated target server (Metasploitable3). The core objective was to move systematically through the offensive security lifecycle: reconnaissance, vulnerability scanning, exploitation, and post-exploitation. The results demonstrate end-to-end expertise in securing server environments by identifying, exploiting, and providing remediation strategies for critical weaknesses.
 
 ### Skills Learned
 
